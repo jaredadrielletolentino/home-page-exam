@@ -120,7 +120,7 @@ html {
 /* Hero Section */
 .hero-section {
     height: 100vh;
-    background: linear-gradient(rgba(17, 24, 39, 0.7), rgba(31, 41, 55, 0.8)), url('https://images-1.bluntmag.com.au/uploads/2021/04/All-Time-Low-Main-Pub-2021-Nolan-Knight-scaled.jpg');
+    background: linear-gradient(rgba(17, 24, 39, 0.7), rgba(31, 41, 55, 0.8)), url('hero-bg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
